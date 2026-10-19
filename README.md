@@ -2,7 +2,7 @@
 
 A small Arduino game where you turn a potentiometer to find a hidden "combination". A buzzer plays a higher pitch the closer you get, and the game prints `CRACKED!` when you land on it.
 
-![Breadboard setup](setup.jpg)
+![Breadboard setup](setup.jpeg)
 
 ## How it works
 
